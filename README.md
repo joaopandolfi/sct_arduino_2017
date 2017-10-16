@@ -13,4 +13,5 @@ Seguidor de linha feito pelos alunos de ensino médio do GACS (Grupo de Astronom
 ## Equipe
 - Davi Fernandes
 - Matheus Queiroz
+- Khristyan Vilela
 - João Carlos Pandolfi Santana (Orientador)
